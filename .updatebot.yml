@@ -3,6 +3,6 @@ github:
   - name: igdianov
     repositories:
     - name: bar
-    - name: baz
+    - name: foobar
       useSinglePullRequest: true
       
