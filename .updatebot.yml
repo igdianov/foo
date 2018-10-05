@@ -1,0 +1,8 @@
+github:
+  organisations:
+  - name: igdianov
+    repositories:
+    - name: bar
+    - name: baz
+      useSinglePullRequest: true
+      
