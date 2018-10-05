@@ -1,1 +1,3 @@
 # foo
+
+updatebot push-version -k maven igdianov:foo 0.0.1
