@@ -71,7 +71,7 @@ spec:
         steps {
           container('maven') {
             // Let's push changes and open PRs to downstream repositories
-            sh "make updatebot/push"
+            sh "make updatebot/push-version"
 
             // Let's update any open PRs
             sh "make updatebot/update"
